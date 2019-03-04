@@ -1,0 +1,11 @@
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\bin\Debug\Lab02DSE.exe.config
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\bin\Debug\Lab02DSE.exe
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\bin\Debug\Lab02DSE.pdb
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.csprojAssemblyReference.cache
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.Form1.resources
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.Form2.resources
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.Properties.Resources.resources
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.csproj.GenerateResource.cache
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.csproj.CoreCompileInputs.cache
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.exe
+c:\users\alumno\source\repos\Lab02DSE\Lab02DSE\obj\Debug\Lab02DSE.pdb
